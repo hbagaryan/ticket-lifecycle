@@ -11,7 +11,7 @@ This project showcases the lifecycle of a ticket within osTicket, an open-source
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Agent / User Profule Utilization
+- Agent / User Profile Utilization
 
 <h2>Operating Systems Used </h2>
 
