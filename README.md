@@ -43,9 +43,17 @@ I also created and managed a high-priority ticket for a mobile/online banking sy
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lLoxzHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Had the customer agent reassign the ticket to themselves in osTicket and post a response in the thread, demonstrating proactive communication and ticket ownership. The agent informed the user that they may have found a solution and would follow up, ensuring transparency and engagement in the resolution process.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Ij97tDd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Emulated the process of resolving a ticket in osTicket by having the customer agent post a final comment updating the user and marking the ticket as Resolved. The agent communicated the resolution to the customer, ensuring clarity and transparency in the support process. This project demonstrates my ability to manage ticket lifecycles, provide effective customer communication, and finalize IT support resolutions within a help desk environment.
 </p>
 <br />
