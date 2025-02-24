@@ -27,10 +27,10 @@ This project showcases the lifecycle of a ticket within osTicket, an open-source
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/ZYo0omb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UfwMeH7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Restructured department management in osTicket by promoting the SysAdmins department to a top-level department and deleting the Maintenance department.
+Simulated the customer-facing ticket creation process in osTicket, where an end-user submits a ticket that is routed to the help desk. This process ensures that customer issues are properly logged, categorized, and assigned for resolution.
 </p>
 <br />
 
